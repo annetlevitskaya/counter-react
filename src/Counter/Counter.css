@@ -1,0 +1,23 @@
+.Container {
+    width: 40%;
+    border: 3px solid #3657b3;
+    margin: 30px auto;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+.Counter {
+    font-size: 47px;
+    font-weight: bold;
+}
+
+.Counter__btn {
+    color: #fff;
+    background-color: #3657b3;
+    border: 1px solid #fff;
+    font-size: 20px;
+    margin: 20px 10px;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
